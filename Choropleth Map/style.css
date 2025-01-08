@@ -1,0 +1,9 @@
+body {
+    background-color: azure;
+    display: block;
+    text-align: center
+  }
+  
+  .invisible {
+    display: none
+  }
